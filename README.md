@@ -5,5 +5,16 @@ I am a design-driven engineer, a quick learner, technically competent, self-moti
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
+<p align="center">
+ <a href="https://www.linkedin.com/in/iamrahuldhar/" target="blank">
+  <img align="center" alt="Rahul's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/iamrdhar/" target="blank">
+  <img align="center" alt="Rahul's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
+</p>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IAmRDhar.IAmRDhar)
