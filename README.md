@@ -10,8 +10,8 @@ I am a design-driven engineer, a quick learner, technically competent, self-moti
   <img align="center" alt="Rahul's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/iamrdhar/" target="blank">
-  <img align="center" alt="Rahul's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
+  <img align="center" alt="Rahul's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+ </a> 
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
